@@ -1,0 +1,29 @@
+{
+  "name": "hubot-slack-sumologic-charts",
+  "version": "0.0.0",
+  "description": "Learn Hubot how to make beautiful charts from sumologic datas",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boulangerie/hubot-slack-sumologic-charts.git"
+  },
+  "keywords": [
+    "hubot",
+    "slack",
+    "sumologic",
+    "chart",
+    "graph",
+    "image",
+    "coffee",
+    "brain"
+  ],
+  "author": "Julien Vidal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Boulangerie/hubot-slack-sumologic-charts/issues"
+  },
+  "homepage": "https://github.com/Boulangerie/hubot-slack-sumologic-charts#readme"
+}
