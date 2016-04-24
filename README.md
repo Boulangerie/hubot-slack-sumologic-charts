@@ -1,9 +1,9 @@
-# :robot_face: Hubot Slack Sumologic Charts 0.0.0 (:alembic: **Experimental package** :alembic:)
+# Hubot Slack Sumologic Charts (:microscope: : **Experimental package**)
 
 ## Description
 
 It's a package which allow you to display sumologic charts in your slack via Hubot.
-That's why the name is so long sorry for that :wink:
+That's why the name is so long, sorry for that :wink:
 
 ## Install 
 
@@ -25,6 +25,7 @@ HUBOT_SUMOLOGIC_TOKEN=<your_sumologic_api_token>
 
 Install Complete !
 
+
 ## What this package do
 
 For now, this package only works for dashboard widgets. Support for queries should be planned and added depending 
@@ -35,7 +36,7 @@ never reach version 1.0.0 while this part isn't done. But the most important par
 about a dashboard and his widgets, this part of the API seems broken or not implemented yet, we have open an issue
 for it and hope one this one will be done.
 
-Don't hesitate to push it, this package should be better ! (https://github.com/SumoLogic/sumo-api-doc/issues/8)[Github issue]
+Don't hesitate to push it, this package should be better ! [[:octocat: Github issue](https://github.com/SumoLogic/sumo-api-doc/issues/8)]
 
 So you have to explain hubot, how to get widget data from a dashboard and unfortunately, this part is manual :disappointed:.
  
@@ -110,96 +111,20 @@ Object keys are the way to sumo to retrieve the chart you want at the time you a
 Types are the currently supported chart hubot can generate, the example above list all of them for now.
 
 Finally to teach to hubot, just upload that file and ensure this one have a public visibility.
+You can add as many lessons you want hubot brain will merge his memory with the new lesson. 
 
 This is an experimental package, so if you find something wrong, don't hesitate to ask.
 
-## 
+## Available hubot commands on slack
 
-## Changelog - Here for now
+### Display a chart by name
 
-### Version 0.1.0 (soonly pushed)
-- [x] Tests the all chain !
-- [x] Use real data from sumologic widget
-- [x] Implement some highchart adapters depending of widget
-- [x] Add Hubot hear for this dev
-- [x] Test on a true slack
-- [x] Graph can be built on highchart or svg template
-  - [x] Split how work graph builder for allowing multiple implementation
-  - [x] Base on graph type
-- [x] Use promises !
-   - [x] Break callback hell into promise composition
-- [x] Clean generated image file
-  - [x] Auto find tmp file
-  - [x] Use it
-- [x] Style graph
-- [x] Learn hubot to learn
-  - [x] Learn from a json file (brain used)
-  - [x] Allow to erase memory via a command
-- [x] Clean && Tidy && Refactor if needed
-  - [x] Clean todo's
-  - [x] SendToSlack (ensure work for common cases)
-- [ ] Package it !
-  - [x] Boulangerie repo
-  - [ ] Readme
-  - [x] Npm publish 
-- [ ] When hubot has learn return a message
-- [ ] Repository part 2
-  - [ ] Add changelog
-  - [ ] Issues followings subjects
-  - [ ] Millestone them ?
+```
+@hubot sumo boulangerie-pie
+```
 
+### Erase all memory of hubot about sumologic
 
-### Learn hubot to learn
-POC on fact hubot can get a json file through slack
-Can be a link to file but it's less safer
-Finally we can brainwash hubot if we want !
-Maybe if sumologic fix their API we could use it properly
-and avoid a lot of this stuff
-
-#### Edit
-Some of this feature have already been done.
-But this part of this package could improved a bit more
-
-- [] Erase brain should be possible only by some users
-- [] Should list all widget available...
-- [] Should add/update/remove unitary by a command
-  
-### Learn hubot to make graphs with query
-Instead of using dashboard data, use true results from
-a custom query. The naive way should to transform query
-results into dashboard data format. Like this graphs implementation
-should work as expected without no update on it.
-
-We should use the same hubot command, but hubot have to warn user
-the result could not come as quickly as a widget result 
-
-- [ ] Associate a query with a name and a graph type
-- [ ] Implement logic to transform sumo data into something usable for graph
-- [ ] Add hubot behavior
-- [ ] (Depending of : Learn hubot to learn) Update or consider it
-
-
-### Learn hubot to make beautiful graphs
-- [ ] Missing infos
-  - [ ] Time range of current graph
-- [ ] Missing graph
-  - [ ] Donuts
-  - [ ] Text percentage
-  - [ ] Filled line chart
-- [ ] Upgrade logic behind how we format rawData from sumo (to dumb for now)
-- [ ] Style should be configurable
-- [ ] Apply Color rules on some of them when sumo will give us that details 
-
-### Learn hubot to let rocks for find his mistakes ! 
-- [ ] Implement a true logger to see what hubot do
-
-### Improve filesystem management
-Instead of using promise of folder, use it or flag, this could avoid problem 
-with promise. Other solution should be to create it at module install
-
-- [ ] Spec it :)
-
-### Other points
-- [ ] Find a way to delete what hubot send to slack
-- [ ] Make this part of hubot more customisable via brain of something (theme ?)
-
+```
+@hubot lobotomize sumo
+```
