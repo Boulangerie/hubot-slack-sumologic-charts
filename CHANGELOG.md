@@ -1,6 +1,7 @@
-### 0.1.0
+## 0.1.0
 - [x] Implement `sumo (name)`
 - [x] Implement `lobotomize sumo`
+- [x] Implement Sumo Memory management via file uploading 
 - [x] Chart support
     - [x] Pie
     - [x] StackedBar
@@ -30,12 +31,9 @@
       - [x] Boulangerie repo
       - [x] Readme
       - [x] Npm publish 
-    - [ ] When hubot has learn return a message
-    - [ ] Repository part 2
-      - [ ] Add changelog
-      - [ ] Issues followings subjects
-      - [ ] Millestone them ?
+    - [x] When hubot has learn return a message
 
+### To milestonize
 
 ### Learn hubot to learn
 POC on fact hubot can get a json file through slack
