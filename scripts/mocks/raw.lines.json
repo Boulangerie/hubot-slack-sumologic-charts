@@ -1,0 +1,644 @@
+{
+  "fields": [
+    {
+      "keyField": true,
+      "name": "_timeslice",
+      "fieldType": "long"
+    },
+    {
+      "keyField": false,
+      "name": "clickthru",
+      "fieldType": "int"
+    },
+    {
+      "keyField": false,
+      "name": "loaded",
+      "fieldType": "int"
+    },
+    {
+      "keyField": false,
+      "name": "videothirdquartile",
+      "fieldType": "int"
+    },
+    {
+      "keyField": false,
+      "name": "videostart",
+      "fieldType": "int"
+    },
+    {
+      "keyField": false,
+      "name": "videomidpoint",
+      "fieldType": "int"
+    },
+    {
+      "keyField": false,
+      "name": "videofirstquartile",
+      "fieldType": "int"
+    },
+    {
+      "keyField": false,
+      "name": "videocomplete",
+      "fieldType": "int"
+    }
+  ],
+  "id": 11113145,
+  "records": [
+    {
+      "map": {
+        "videothirdquartile": "4326",
+        "loaded": "21194",
+        "_timeslice": "1458880200000",
+        "videomidpoint": "5324",
+        "videofirstquartile": "7112",
+        "videostart": "13217",
+        "videocomplete": "3619",
+        "clickthru": "79"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "6960",
+        "loaded": "34885",
+        "_timeslice": "1458881100000",
+        "videomidpoint": "8630",
+        "videofirstquartile": "11563",
+        "videostart": "21446",
+        "videocomplete": "5804",
+        "clickthru": "184"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "6852",
+        "loaded": "35537",
+        "_timeslice": "1458882000000",
+        "videomidpoint": "8592",
+        "videofirstquartile": "11547",
+        "videostart": "21870",
+        "videocomplete": "5728",
+        "clickthru": "154"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "6619",
+        "loaded": "34557",
+        "_timeslice": "1458882900000",
+        "videomidpoint": "8303",
+        "videofirstquartile": "11316",
+        "videostart": "21130",
+        "videocomplete": "5563",
+        "clickthru": "165"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "6634",
+        "loaded": "35002",
+        "_timeslice": "1458883800000",
+        "videomidpoint": "8384",
+        "videofirstquartile": "11320",
+        "videostart": "21480",
+        "videocomplete": "5559",
+        "clickthru": "195"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "6912",
+        "loaded": "35912",
+        "_timeslice": "1458884700000",
+        "videomidpoint": "8615",
+        "videofirstquartile": "11613",
+        "videostart": "22121",
+        "videocomplete": "5774",
+        "clickthru": "177"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "7536",
+        "loaded": "38624",
+        "_timeslice": "1458885600000",
+        "videomidpoint": "9371",
+        "videofirstquartile": "12563",
+        "videostart": "23537",
+        "videocomplete": "6287",
+        "clickthru": "184"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "7398",
+        "loaded": "38348",
+        "_timeslice": "1458886500000",
+        "videomidpoint": "9197",
+        "videofirstquartile": "12371",
+        "videostart": "23506",
+        "videocomplete": "6158",
+        "clickthru": "172"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "7692",
+        "loaded": "40305",
+        "_timeslice": "1458887400000",
+        "videomidpoint": "9605",
+        "videofirstquartile": "12913",
+        "videostart": "24456",
+        "videocomplete": "6448",
+        "clickthru": "178"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "7861",
+        "loaded": "38453",
+        "_timeslice": "1458888300000",
+        "videomidpoint": "9675",
+        "videofirstquartile": "12675",
+        "videostart": "23473",
+        "videocomplete": "6722",
+        "clickthru": "207"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "7267",
+        "loaded": "36985",
+        "_timeslice": "1458889200000",
+        "videomidpoint": "9084",
+        "videofirstquartile": "12100",
+        "videostart": "22189",
+        "videocomplete": "6131",
+        "clickthru": "177"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "7618",
+        "loaded": "37632",
+        "_timeslice": "1458890100000",
+        "videomidpoint": "9325",
+        "videofirstquartile": "12281",
+        "videostart": "22394",
+        "videocomplete": "6396",
+        "clickthru": "179"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "7674",
+        "loaded": "39048",
+        "_timeslice": "1458891000000",
+        "videomidpoint": "9586",
+        "videofirstquartile": "12769",
+        "videostart": "23403",
+        "videocomplete": "6460",
+        "clickthru": "203"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "7847",
+        "loaded": "39423",
+        "_timeslice": "1458891900000",
+        "videomidpoint": "9730",
+        "videofirstquartile": "12845",
+        "videostart": "23263",
+        "videocomplete": "6597",
+        "clickthru": "183"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "8011",
+        "loaded": "41204",
+        "_timeslice": "1458892800000",
+        "videomidpoint": "10066",
+        "videofirstquartile": "13397",
+        "videostart": "24885",
+        "videocomplete": "6647",
+        "clickthru": "195"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "8200",
+        "loaded": "40954",
+        "_timeslice": "1458893700000",
+        "videomidpoint": "10154",
+        "videofirstquartile": "13416",
+        "videostart": "24717",
+        "videocomplete": "6954",
+        "clickthru": "150"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "8149",
+        "loaded": "40593",
+        "_timeslice": "1458894600000",
+        "videomidpoint": "9985",
+        "videofirstquartile": "13185",
+        "videostart": "24034",
+        "videocomplete": "6924",
+        "clickthru": "139"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "8142",
+        "loaded": "40758",
+        "_timeslice": "1458895500000",
+        "videomidpoint": "9951",
+        "videofirstquartile": "13131",
+        "videostart": "24290",
+        "videocomplete": "6874",
+        "clickthru": "159"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "8331",
+        "loaded": "41312",
+        "_timeslice": "1458896400000",
+        "videomidpoint": "10249",
+        "videofirstquartile": "13407",
+        "videostart": "24454",
+        "videocomplete": "7078",
+        "clickthru": "143"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "8088",
+        "loaded": "40516",
+        "_timeslice": "1458897300000",
+        "videomidpoint": "10047",
+        "videofirstquartile": "13123",
+        "videostart": "23758",
+        "videocomplete": "6773",
+        "clickthru": "132"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "8357",
+        "loaded": "41457",
+        "_timeslice": "1458898200000",
+        "videomidpoint": "10252",
+        "videofirstquartile": "13359",
+        "videostart": "24402",
+        "videocomplete": "7013",
+        "clickthru": "162"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "8367",
+        "loaded": "42968",
+        "_timeslice": "1458899100000",
+        "videomidpoint": "10415",
+        "videofirstquartile": "13740",
+        "videostart": "25054",
+        "videocomplete": "7054",
+        "clickthru": "165"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "8738",
+        "loaded": "44350",
+        "_timeslice": "1458900000000",
+        "videomidpoint": "10919",
+        "videofirstquartile": "14412",
+        "videostart": "26472",
+        "videocomplete": "7309",
+        "clickthru": "146"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "8811",
+        "loaded": "42855",
+        "_timeslice": "1458900900000",
+        "videomidpoint": "10821",
+        "videofirstquartile": "14192",
+        "videostart": "25474",
+        "videocomplete": "7382",
+        "clickthru": "154"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "8778",
+        "loaded": "43432",
+        "_timeslice": "1458901800000",
+        "videomidpoint": "10827",
+        "videofirstquartile": "14248",
+        "videostart": "25465",
+        "videocomplete": "7434",
+        "clickthru": "153"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "8970",
+        "loaded": "44020",
+        "_timeslice": "1458902700000",
+        "videomidpoint": "11103",
+        "videofirstquartile": "14456",
+        "videostart": "25692",
+        "videocomplete": "7572",
+        "clickthru": "142"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "9147",
+        "loaded": "44729",
+        "_timeslice": "1458903600000",
+        "videomidpoint": "11308",
+        "videofirstquartile": "14930",
+        "videostart": "26729",
+        "videocomplete": "7673",
+        "clickthru": "167"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "9386",
+        "loaded": "45277",
+        "_timeslice": "1458904500000",
+        "videomidpoint": "11495",
+        "videofirstquartile": "15043",
+        "videostart": "27020",
+        "videocomplete": "7906",
+        "clickthru": "161"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "9663",
+        "loaded": "46762",
+        "_timeslice": "1458905400000",
+        "videomidpoint": "11862",
+        "videofirstquartile": "15576",
+        "videostart": "27776",
+        "videocomplete": "8210",
+        "clickthru": "187"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "9915",
+        "loaded": "49101",
+        "_timeslice": "1458906300000",
+        "videomidpoint": "12247",
+        "videofirstquartile": "16052",
+        "videostart": "28832",
+        "videocomplete": "8371",
+        "clickthru": "167"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "10222",
+        "loaded": "51167",
+        "_timeslice": "1458907200000",
+        "videomidpoint": "12612",
+        "videofirstquartile": "16706",
+        "videostart": "30394",
+        "videocomplete": "8543",
+        "clickthru": "214"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "10206",
+        "loaded": "52293",
+        "_timeslice": "1458908100000",
+        "videomidpoint": "12766",
+        "videofirstquartile": "16839",
+        "videostart": "30930",
+        "videocomplete": "8666",
+        "clickthru": "187"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "10830",
+        "loaded": "54783",
+        "_timeslice": "1458909000000",
+        "videomidpoint": "13426",
+        "videofirstquartile": "17800",
+        "videostart": "32642",
+        "videocomplete": "9146",
+        "clickthru": "219"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "11438",
+        "loaded": "61625",
+        "_timeslice": "1458909900000",
+        "videomidpoint": "14292",
+        "videofirstquartile": "19210",
+        "videostart": "36678",
+        "videocomplete": "9513",
+        "clickthru": "240"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "11467",
+        "loaded": "62755",
+        "_timeslice": "1458910800000",
+        "videomidpoint": "14479",
+        "videofirstquartile": "19523",
+        "videostart": "37736",
+        "videocomplete": "9571",
+        "clickthru": "232"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "11569",
+        "loaded": "62978",
+        "_timeslice": "1458911700000",
+        "videomidpoint": "14576",
+        "videofirstquartile": "19632",
+        "videostart": "37607",
+        "videocomplete": "9660",
+        "clickthru": "267"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "11726",
+        "loaded": "64279",
+        "_timeslice": "1458912600000",
+        "videomidpoint": "14726",
+        "videofirstquartile": "19916",
+        "videostart": "38481",
+        "videocomplete": "9742",
+        "clickthru": "253"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "11804",
+        "loaded": "64530",
+        "_timeslice": "1458913500000",
+        "videomidpoint": "14731",
+        "videofirstquartile": "19998",
+        "videostart": "38617",
+        "videocomplete": "9716",
+        "clickthru": "297"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "12419",
+        "loaded": "66998",
+        "_timeslice": "1458914400000",
+        "videomidpoint": "15589",
+        "videofirstquartile": "20995",
+        "videostart": "40095",
+        "videocomplete": "10338",
+        "clickthru": "290"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "12206",
+        "loaded": "66320",
+        "_timeslice": "1458915300000",
+        "videomidpoint": "15322",
+        "videofirstquartile": "20690",
+        "videostart": "39371",
+        "videocomplete": "10115",
+        "clickthru": "282"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "12891",
+        "loaded": "68433",
+        "_timeslice": "1458916200000",
+        "videomidpoint": "16117",
+        "videofirstquartile": "21655",
+        "videostart": "40842",
+        "videocomplete": "10714",
+        "clickthru": "267"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "12749",
+        "loaded": "67674",
+        "_timeslice": "1458917100000",
+        "videomidpoint": "16055",
+        "videofirstquartile": "21693",
+        "videostart": "40791",
+        "videocomplete": "10598",
+        "clickthru": "267"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "13536",
+        "loaded": "70096",
+        "_timeslice": "1458918000000",
+        "videomidpoint": "16940",
+        "videofirstquartile": "22619",
+        "videostart": "42085",
+        "videocomplete": "11265",
+        "clickthru": "315"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "13308",
+        "loaded": "67621",
+        "_timeslice": "1458918900000",
+        "videomidpoint": "16559",
+        "videofirstquartile": "22051",
+        "videostart": "40146",
+        "videocomplete": "11252",
+        "clickthru": "278"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "13294",
+        "loaded": "68615",
+        "_timeslice": "1458919800000",
+        "videomidpoint": "16496",
+        "videofirstquartile": "21843",
+        "videostart": "39632",
+        "videocomplete": "11093",
+        "clickthru": "305"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "13818",
+        "loaded": "70547",
+        "_timeslice": "1458920700000",
+        "videomidpoint": "17090",
+        "videofirstquartile": "22586",
+        "videostart": "40457",
+        "videocomplete": "11588",
+        "clickthru": "297"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "13394",
+        "loaded": "67846",
+        "_timeslice": "1458921600000",
+        "videomidpoint": "16577",
+        "videofirstquartile": "21740",
+        "videostart": "39273",
+        "videocomplete": "11164",
+        "clickthru": "306"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "13238",
+        "loaded": "67521",
+        "_timeslice": "1458922500000",
+        "videomidpoint": "16398",
+        "videofirstquartile": "21489",
+        "videostart": "38344",
+        "videocomplete": "11147",
+        "clickthru": "274"
+      }
+    },
+    {
+      "map": {
+        "videothirdquartile": "4753",
+        "loaded": "23586",
+        "_timeslice": "1458923400000",
+        "videomidpoint": "5787",
+        "videofirstquartile": "7554",
+        "videostart": "13588",
+        "videocomplete": "4035",
+        "clickthru": "107"
+      }
+    }
+  ],
+  "resolvedTimeRange": {
+    "startMillis": 1458880560000,
+    "endMillis": 1458923760000
+  },
+  "recentlyStarted": false,
+  "queryStartTime": 1458749656965,
+  "lastUpdated": 1458923736362,
+  "warnings": [],
+  "isRecentlyStarted": false
+}

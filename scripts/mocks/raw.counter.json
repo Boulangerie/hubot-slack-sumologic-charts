@@ -1,0 +1,26 @@
+{
+  "fields": [
+    {
+      "keyField": false,
+      "name": "_count",
+      "fieldType": "double"
+    }
+  ],
+  "id": 11115301,
+  "records": [
+    {
+      "map": {
+        "_count": "253070.0"
+      }
+    }
+  ],
+  "resolvedTimeRange": {
+    "startMillis": 1458922845000,
+    "endMillis": 1458923745000
+  },
+  "recentlyStarted": false,
+  "queryStartTime": 1456767398751,
+  "lastUpdated": 1458923736650,
+  "warnings": [],
+  "isRecentlyStarted": false
+}

@@ -1,0 +1,52 @@
+{
+  "bad-front-APIV1-error": {
+    "dashboardId" : 9999999,
+    "widgetId" : 11116785,
+    "type" : "stackedBar"
+  },
+  "front-APIV1-error": {
+    "dashboardId" : 11113109,
+    "widgetId" : 11116785,
+    "type" : "stackedBar"
+  },
+  "front-APIV2-error": {
+    "dashboardId" : 11113109,
+    "widgetId" : 11116794,
+    "type" : "stackedBar"
+  },
+  "front-router-version": {
+    "dashboardId" : 11113109,
+    "widgetId" : 11115303,
+    "type" : "pie"
+  },
+  "front-V1-format": {
+    "dashboardId" : 11113109,
+    "widgetId" : 11253638,
+    "type" : "pie"
+  },
+  "front-V2-format": {
+    "dashboardId" : 11113109,
+    "widgetId" : 11253660,
+    "type" : "pie"
+  },
+  "front-MAN-daily": {
+    "dashboardId" : 11113109,
+    "widgetId" : 11240367,
+    "type" : "counter"
+  },
+  "format-router-calls": {
+    "dashboardId" : 11113109,
+    "widgetId" : 11115301,
+    "type" : "counter"
+  },
+  "front-load-format-js": {
+    "dashboardId" : 11113109,
+    "widgetId" : 11113543,
+    "type" : "timecounter"
+  },
+  "front-vpaid-events": {
+    "dashboardId" : 11113109,
+    "widgetId" : 11113145,
+    "type" : "lines"
+  }
+}

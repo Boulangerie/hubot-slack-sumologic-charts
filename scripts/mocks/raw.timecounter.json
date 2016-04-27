@@ -1,0 +1,26 @@
+{
+  "fields": [
+    {
+      "keyField": false,
+      "name": "_avg",
+      "fieldType": "long"
+    }
+  ],
+  "id": 11113543,
+  "records": [
+    {
+      "map": {
+        "_avg": "535"
+      }
+    }
+  ],
+  "resolvedTimeRange": {
+    "startMillis": 1458880560000,
+    "endMillis": 1458923760000
+  },
+  "recentlyStarted": false,
+  "queryStartTime": 1458567478977,
+  "lastUpdated": 1458923735814,
+  "warnings": [],
+  "isRecentlyStarted": false
+}

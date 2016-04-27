@@ -1,0 +1,122 @@
+{
+  "records": [
+    {
+      "map": {
+        "404": "5",
+        "_timeslice": "1458736920000"
+      }
+    },
+    {
+      "map": {
+        "403": "3",
+        "404": "5",
+        "_timeslice": "1458736980000"
+      }
+    },
+    {
+      "map": {
+        "404": "9",
+        "_timeslice": "1458737040000"
+      }
+    },
+    {
+      "map": {
+        "403": "1",
+        "404": "8",
+        "_timeslice": "1458737100000"
+      }
+    },
+    {
+      "map": {
+        "404": "2",
+        "_timeslice": "1458737160000"
+      }
+    },
+    {
+      "map": {
+        "403": "1",
+        "404": "3",
+        "_timeslice": "1458737220000"
+      }
+    },
+    {
+      "map": {
+        "403": "1",
+        "404": "3",
+        "_timeslice": "1458737400000"
+      }
+    },
+    {
+      "map": {
+        "404": "6",
+        "_timeslice": "1458737460000"
+      }
+    },
+    {
+      "map": {
+        "404": "6",
+        "_timeslice": "1458737520000"
+      }
+    },
+    {
+      "map": {
+        "403": "2",
+        "404": "3",
+        "_timeslice": "1458737580000"
+      }
+    },
+    {
+      "map": {
+        "404": "11",
+        "_timeslice": "1458737640000"
+      }
+    },
+    {
+      "map": {
+        "403": "1",
+        "404": "5",
+        "_timeslice": "1458737700000"
+      }
+    },
+    {
+      "map": {
+        "403": "1",
+        "404": "2",
+        "504": "1",
+        "_timeslice": "1458737760000"
+      }
+    }
+  ],
+  "resolvedTimeRange": {
+    "startMillis": 1458736935000,
+    "endMillis": 1458737835000
+  },
+  "recentlyStarted": false,
+  "queryStartTime": 1450433036159,
+  "lastUpdated": 1458737834940,
+  "warnings": [],
+  "isRecentlyStarted": false,
+  "fields": [
+    {
+      "keyField": true,
+      "name": "_timeslice",
+      "fieldType": "long"
+    },
+    {
+      "keyField": false,
+      "name": "404",
+      "fieldType": "int"
+    },
+    {
+      "keyField": false,
+      "name": "403",
+      "fieldType": "int"
+    },
+    {
+      "keyField": false,
+      "name": "504",
+      "fieldType": "int"
+    }
+  ],
+  "id": 11116785
+}

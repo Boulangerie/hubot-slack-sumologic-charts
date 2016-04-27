@@ -1,0 +1,44 @@
+{
+  "fields": [
+    {
+      "keyField": true,
+      "name": "to",
+      "fieldType": "string"
+    },
+    {
+      "keyField": false,
+      "name": "_count",
+      "fieldType": "int"
+    }
+  ],
+  "id": 11115303,
+  "isRecentlyStarted": false,
+  "records": [
+    {
+      "map": {
+        "to": "V1",
+        "_count": "17"
+      }
+    },
+    {
+      "map": {
+        "to": "V2",
+        "_count": "2920"
+      }
+    },
+    {
+      "map": {
+        "to": "V3",
+        "_count": "14479"
+      }
+    }
+  ],
+  "resolvedTimeRange": {
+    "startMillis": 1458861420000,
+    "endMillis": 1458861480000
+  },
+  "recentlyStarted": false,
+  "queryStartTime": 1450713717676,
+  "lastUpdated": 1458861476255,
+  "warnings": []
+}

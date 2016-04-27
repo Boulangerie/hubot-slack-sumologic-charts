@@ -1,0 +1,18 @@
+[
+  {
+    "unit": "milliseconds",
+    "format": "ms"
+  },
+  {
+    "unit": "seconds",
+    "format": "s"
+  },
+  {
+    "unit": "minutes",
+    "format": "m"
+  },
+  {
+    "unit": "hours",
+    "format": "h"
+  }
+]
