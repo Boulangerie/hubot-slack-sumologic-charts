@@ -43,7 +43,7 @@ class HubotSumoMemory
           try
             body = JSON.parse(body)
           catch e
-            err = "Impossible to parse json file from slack"
+            err = "Impossible to parse json file from Slack"
 
           if err
             reject(err)

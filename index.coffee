@@ -30,9 +30,9 @@ module.exports = (robot) ->
         filePath = FileHelper.getPath(pngName)
         sendToSlack(filePath, result.message)
       )
-      .then((sended) ->
-        robot.logger.info "File : #{sended.filepath} sended"
-        robot.logger.info "to : #{sended.channel}/#{sended.room}"
+      .then((sent) ->
+        robot.logger.info "File : #{sent.filepath} sent"
+        robot.logger.info "to : #{sent.channel}/#{sent.room}"
         return FileHelper.clean()
       )
       .then(() ->
@@ -48,4 +48,3 @@ module.exports = (robot) ->
     else
       result.reply "I don't know this widget sorry... :disappointed:"
       robot.logger.info "Sumo Graph : End"
-
